@@ -2,7 +2,7 @@
 
 Proyek ini adalah aplikasi berbasis web yang dirancang untuk memfasilitasi layanan konsultasi dan edukasi laktasi bagi ibu menyusui secara terpadu. 
 
-*(Catatan: Repositori ini merupakan arsip pengembangan proyek dari 1 tahun yang lalu. Proyek ini dikerjakan secara kolaboratif, di mana saya berfokus pada Frontend/UI dengan backend ditangani oleh rekan tim).*
+*(Catatan: Repositori ini merupakan arsip pengembangan proyek yang dikerjakan secara kolaboratif, di mana saya berfokus pada Frontend/UI dengan backend ditangani oleh rekan tim).*
 
 ## 🛠️ Tech Stack
 
