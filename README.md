@@ -13,6 +13,6 @@ Proyek ini adalah aplikasi berbasis web yang dirancang untuk memfasilitasi layan
 
 ## 📸 Preview Proyek
 
-[![Lihat Preview di Google Drive](https://img.shields.io/badge/Google_Drive-Dokumentasi_Visual-1FA463?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1LcDxj7cAoLBWWXA5sAJu-XDZ2cbjwjV2/view?usp=sharing)
+[![Lihat Preview di Google Drive](https://img.shields.io/badge/Google_Drive-Guidance_User-1FA463?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1LcDxj7cAoLBWWXA5sAJu-XDZ2cbjwjV2/view?usp=sharing)
 
 ---
